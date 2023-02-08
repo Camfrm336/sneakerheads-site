@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/sneakerheads-site/static/css/main.35828758.css",
+    "main.js": "/sneakerheads-site/static/js/main.dc38a722.js",
+    "static/media/airmags.png": "/sneakerheads-site/static/media/airmags.f52b2fdd38f7d6b12426.png",
+    "static/media/chicagolostandfound.jpg": "/sneakerheads-site/static/media/chicagolostandfound.0c6abf4234fcb68cca69.jpg",
+    "static/media/stagehaze.jpg": "/sneakerheads-site/static/media/stagehaze.d012a3c80c00443ca59e.jpg",
+    "static/media/universityblue.jpg": "/sneakerheads-site/static/media/universityblue.d3b322fa70a5f6fbcd45.jpg",
+    "static/media/dior1s.jpg": "/sneakerheads-site/static/media/dior1s.f49a404b0feaf1d53993.jpg",
+    "static/media/offwhiteunc.jpg": "/sneakerheads-site/static/media/offwhiteunc.9d615ddd0b51f74e4201.jpg",
+    "static/media/darkmocha.jpg": "/sneakerheads-site/static/media/darkmocha.938ff50e3f0177702644.jpg",
+    "static/media/pinegreen.jpg": "/sneakerheads-site/static/media/pinegreen.fb01bee361abe93646bd.jpg",
+    "static/media/travisscottmocha.jpg": "/sneakerheads-site/static/media/travisscottmocha.52127aa36954de70a0c1.jpg",
+    "static/media/courtpurple.jpg": "/sneakerheads-site/static/media/courtpurple.f4bd64f26028efe15371.jpg",
+    "static/media/trash.svg": "/sneakerheads-site/static/media/trash.76e37d09b6d655a6df74761a4db546fa.svg",
+    "static/media/shoppingbag.svg": "/sneakerheads-site/static/media/shoppingbag.7d3b018c2275f55a46001a89c3c364bc.svg",
+    "index.html": "/sneakerheads-site/index.html",
+    "main.35828758.css.map": "/sneakerheads-site/static/css/main.35828758.css.map",
+    "main.dc38a722.js.map": "/sneakerheads-site/static/js/main.dc38a722.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35828758.css",
+    "static/js/main.dc38a722.js"
+  ]
+}
