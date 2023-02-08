@@ -130,7 +130,7 @@ function App() {
   ]);
 
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/">
       <Header bagItems={bagItems} />
       <Routes>
         <Route path="/" element={<Home />} />
