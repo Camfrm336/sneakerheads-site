@@ -1,5 +1,11 @@
 import { useState, useEffect, Suspense } from "react";
-import { BrowserRouter, json, Route, Routes } from "react-router-dom";
+import {
+  BrowserRouter,
+  HashRouter,
+  json,
+  Route,
+  Routes,
+} from "react-router-dom";
 import "../styles/App.css";
 import { v4 as uuid } from "uuid";
 import Header from "./Header";
@@ -130,7 +136,7 @@ function App() {
   ]);
 
   return (
-    <BrowserRouter basename="/">
+    <HashRouter>
       <Header bagItems={bagItems} />
       <Routes>
         <Route path="/" element={<Home />} />
@@ -172,7 +178,7 @@ function App() {
           }
         />
       </Routes>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 

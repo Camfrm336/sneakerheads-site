@@ -13,6 +13,8 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
+  height: 50px;
+  gap: 12px;
 }
 .addButton {
   width: 150px;
