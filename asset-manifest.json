@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sneakerheads-site/static/css/main.35828758.css",
-    "main.js": "/sneakerheads-site/static/js/main.ca61f4c6.js",
+    "main.js": "/sneakerheads-site/static/js/main.b168e330.js",
     "static/media/airmags.png": "/sneakerheads-site/static/media/airmags.f52b2fdd38f7d6b12426.png",
     "static/media/chicagolostandfound.jpg": "/sneakerheads-site/static/media/chicagolostandfound.0c6abf4234fcb68cca69.jpg",
     "static/media/stagehaze.jpg": "/sneakerheads-site/static/media/stagehaze.d012a3c80c00443ca59e.jpg",
@@ -16,10 +16,10 @@
     "static/media/shoppingbag.svg": "/sneakerheads-site/static/media/shoppingbag.7d3b018c2275f55a46001a89c3c364bc.svg",
     "index.html": "/sneakerheads-site/index.html",
     "main.35828758.css.map": "/sneakerheads-site/static/css/main.35828758.css.map",
-    "main.ca61f4c6.js.map": "/sneakerheads-site/static/js/main.ca61f4c6.js.map"
+    "main.b168e330.js.map": "/sneakerheads-site/static/js/main.b168e330.js.map"
   },
   "entrypoints": [
     "static/css/main.35828758.css",
-    "static/js/main.ca61f4c6.js"
+    "static/js/main.b168e330.js"
   ]
 }
