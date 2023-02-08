@@ -1,0 +1,18 @@
+.cardContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: white;
+  width: 350px;
+  height: 120px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.cardInfo {
+  display: grid;
+  grid-template-rows: repeat(3, 28px);
+  place-content: flex-start;
+  width: 240px;
+  padding-bottom: 39px;
+}

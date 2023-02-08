@@ -1,0 +1,20 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 10px;
+  height: 350px;
+  width: 250px;
+  background-color: white;
+}
+
+.cardInput {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.addButton {
+  width: 150px;
+  cursor: pointer;
+}

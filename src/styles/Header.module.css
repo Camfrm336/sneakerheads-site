@@ -1,0 +1,57 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 5vw;
+  padding-right: 5vw;
+  font-family: Helvetica, sans-serif;
+}
+
+.wrapper {
+  position: relative;
+  cursor: pointer;
+}
+
+.wrapper span {
+  position: absolute;
+  top: 11px;
+  right: -11px;
+  background-color: rgb(34, 120, 233);
+  border-radius: 50%;
+  padding: 2px;
+  width: 18px;
+  height: 18px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  opacity: 0.8;
+}
+
+.rightItems {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+.underline {
+  position: relative;
+}
+.underline::after {
+  content: "";
+  position: absolute;
+  width: 100%;
+  transform: scaleX(0);
+  height: 2px;
+  bottom: 0;
+  left: 0;
+  background-color: black;
+  transform-origin: bottom right;
+  transition: transform 0.15s ease-out;
+}
+.underline:hover::after {
+  transform: scaleX(1);
+  transform-origin: bottom left;
+}
+
+.links {
+  text-decoration: none;
+}
